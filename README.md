@@ -1,6 +1,6 @@
 ![Header](./header.png)
 <h1 align="center">Hi 👋, I'm Leandro</h1>
-<h3 align="center">A Junior Full Stack Dev!</h3>
+<h3 align="center">A Full Stack Dev!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leandro-santos-abreu&label=Profile%20views&color=0e75b6&style=flat" alt="leandro-santos-abreu" /> </p>
 
