@@ -6,15 +6,13 @@
 
 <p align="left"> <a href="https://twitter.com/leandro_s_abreu" target="blank"><img src="https://img.shields.io/twitter/follow/leandro_s_abreu?logo=twitter&style=for-the-badge" alt="leandro_s_abreu" /></a> </p>
 
-- 🌱 I’m currently learning **React Native**
-
 - 💬 Ask me about **C#, Angular**
 
 - 📫 How to reach me **leandro.sabreu@outlook.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/leandro-dos-santos-de-abreu/](https://www.linkedin.com/in/leandro-dos-santos-de-abreu/)
 
-- ⚡ Fun fact **My favorite hobbies are TTRPG and Games**
+- ⚡ **My favorite hobbies are TTRPG and Games**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
